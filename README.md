@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! My name is Zhuoheng Li. Currently doing my PhD in molecular nutrition at Cornell University
+Hey! My name is Zhuoheng Li. Recently finished my PhD in molecular nutrition at Cornell University
 
 - 🔭 I’m currently working on a multi-class classification model to predict protein localization.
 - 🌱 I’m currently learning proteomics, mass spectrometry and machine learning.
